@@ -154,3 +154,5 @@ plugins {
     strider { path "strider"; }
     compact-bar { path "compact-bar"; }
 }
+
+theme "catppuccin-mocha"
