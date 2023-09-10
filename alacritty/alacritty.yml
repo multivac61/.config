@@ -1,12 +1,12 @@
 window:
-    option_as_alt: OnlyLeft
-    # Blank space added around the window in pixels
-    padding:
-        x: 0
-        y: 0
+  option_as_alt: OnlyLeft
+  # Blank space added around the window in pixels
+  padding:
+    x: 0
+    y: 0
 
-    # Spread additional padding evenly around the terminal content
-    dynamic_padding: true
+  # Spread additional padding evenly around the terminal content
+  dynamic_padding: true
 
 font:
   normal:
@@ -18,6 +18,6 @@ font:
 import:
   # uncomment the flavour you want below:
   - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
- # - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+  # - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml

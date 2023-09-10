@@ -1,0 +1,13 @@
+color = ''
+project-name = 'default'
+[default]
+account_id = 'acct_1CCRBAGh4cFDwbbE'
+device_name = 'olafurs-mbp.lan'
+display_name = 'Genkiinstruments'
+live_mode_api_key = 'rk_live_***********************************************************************************************n2FM'
+live_mode_key_expires_at = '2023-09-19'
+live_mode_pub_key = 'pk_live_OxdfwSje3uRgkWWuy9JjXrK1'
+test_mode_api_key = 'rk_test_51CCRBAGh4cFDwbbEZ1LGoH4d1FjHZ4lfx0wlGnKzrSQ1Wbw0eP4TB568D1ekqh7Us8SSJTqMoPqYhZYEmfXwAQ5m00Mqm2ouWi'
+test_mode_key_expires_at = '2023-09-19'
+test_mode_pub_key = 'pk_test_hXRWl6D3D7TrrEZevGLcB6vV'
+
