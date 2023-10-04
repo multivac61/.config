@@ -169,4 +169,20 @@ plugins {
     session-manager { path "session-manager"; }
 }
 
-theme "catppuccin-mocha" // or latte, frappe and macchiato
+// Tokyo Night Moon
+themes {
+    default {
+        fg "#222436"
+        bg "#C8D3F5"
+        black "#1B1D2B"
+        red "#FF757F"
+        green "#C3E88D"
+        yellow "#FFC777"
+        blue "#82AAFF"
+        magenta "#c099FF"
+        cyan "#86E1FC"
+        white "#828BB8"
+        orange "#D08770"
+    }
+}
+
